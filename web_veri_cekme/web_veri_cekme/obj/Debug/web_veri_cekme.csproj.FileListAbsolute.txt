@@ -1,0 +1,14 @@
+C:\Users\baykush\source\repos\web_veri_cekme\web_veri_cekme\bin\Debug\web_veri_cekme.exe.config
+C:\Users\baykush\source\repos\web_veri_cekme\web_veri_cekme\bin\Debug\web_veri_cekme.exe
+C:\Users\baykush\source\repos\web_veri_cekme\web_veri_cekme\bin\Debug\web_veri_cekme.pdb
+C:\Users\baykush\source\repos\web_veri_cekme\web_veri_cekme\obj\Debug\web_veri_cekme.csprojAssemblyReference.cache
+C:\Users\baykush\source\repos\web_veri_cekme\web_veri_cekme\obj\Debug\web_veri_cekme.Form1.resources
+C:\Users\baykush\source\repos\web_veri_cekme\web_veri_cekme\obj\Debug\web_veri_cekme.Properties.Resources.resources
+C:\Users\baykush\source\repos\web_veri_cekme\web_veri_cekme\obj\Debug\web_veri_cekme.csproj.GenerateResource.cache
+C:\Users\baykush\source\repos\web_veri_cekme\web_veri_cekme\obj\Debug\web_veri_cekme.csproj.CoreCompileInputs.cache
+C:\Users\baykush\source\repos\web_veri_cekme\web_veri_cekme\obj\Debug\web_veri_cekme.exe
+C:\Users\baykush\source\repos\web_veri_cekme\web_veri_cekme\obj\Debug\web_veri_cekme.pdb
+C:\Users\baykush\source\repos\web_veri_cekme\web_veri_cekme\bin\Debug\HtmlAgilityPack.dll
+C:\Users\baykush\source\repos\web_veri_cekme\web_veri_cekme\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\baykush\source\repos\web_veri_cekme\web_veri_cekme\bin\Debug\HtmlAgilityPack.xml
+C:\Users\baykush\source\repos\web_veri_cekme\web_veri_cekme\obj\Debug\web_veri_cekme.csproj.CopyComplete
